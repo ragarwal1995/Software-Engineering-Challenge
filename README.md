@@ -12,7 +12,7 @@ Install Anaconda, for installation step see [Link](https://docs.anaconda.com/ana
 ```
 conda create -n software_engineering_challenge python=3.6
 conda activate software_engineering_challenge
-git clone https://github.com/RaghavAgarwal/Software_Engineering_Challenge.git
+git clone https://github.com/ragarwal1995/Software-Engineering-Challenge.git
 cd Jumble
 python Jumble.py
 ```
